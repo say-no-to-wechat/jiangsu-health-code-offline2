@@ -2,5 +2,9 @@
 
 I found a good project on the internet, so I share this to you:
 
-<http://kkph.xvddpwiirgbw.cyou/>
+<https://codeberg.org/suzhou-very-healthy>
+
+----
+
+This project has been abandoned and this account will be permanently deleted to protect information security. Good luck.
 
